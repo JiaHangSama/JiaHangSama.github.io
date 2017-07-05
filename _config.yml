@@ -1,4 +1,5 @@
 name: DopeTrope
 description: DopeTrope template for Jekyll
 paginate: 10
-baseurl: 'jiahangsama.github.io/'
+baseurl: '/'
+url: https://jiahangsama.github.io
